@@ -1,0 +1,21 @@
+{
+  "name": "randomid",
+  "version": "1.0.0",
+  "description": "Generate random password or uniqid with length customization",
+  "main": "randomid.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/themimitoof/node-randomid"
+  },
+  "keywords": [
+    "random",
+    "password",
+    "uniqid"
+  ],
+  "author": "themimitoof",
+  "license": "CDDL-1.0",
+  "bugs": {
+    "url": "https://github.com/themimitoof/node-randomid/issues"
+  },
+  "homepage": "https://github.com/themimitoof/node-randomid"
+}
