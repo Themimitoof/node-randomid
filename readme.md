@@ -16,7 +16,7 @@ var randomid = require('randomid')
 console.log(randomid(24))
 ```
 
-The function has only **one property**. It's a length of the result.
+The function has only **one property**. It's a length of the result. *The default length is 8.*
 
 ## A problem, bug ?
 If you have found a bug, please open an issue on GitHub.
