@@ -1,6 +1,6 @@
 {
   "name": "randomid",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Generate random password or uniqid with length customization",
   "main": "randomid.js",
   "repository": {

@@ -1,9 +1,9 @@
 /*
  * RandomID generator
- * Version 1.0
+ * Version 1.1
  * Author: Michael Vieira aka Themimitoof
  * GitHub page: https://github.com/themimitoof/node-randomid
- * 
+ *
  */
 
 function randomIntInc (low, high) {
@@ -24,7 +24,7 @@ module.exports = function(chars = 8) {
 	for(var i = 1; i < chars; i++) {
 		key[i] = randomIntInc(0, char.length - 1)
 
-		result += char[key[i]] 
+		result += char[key[i]]
 	}
 
 	return result;
